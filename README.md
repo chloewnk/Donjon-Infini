@@ -3,3 +3,5 @@ Pour compiler le code :
 javac *.java
 java DonjonInfini
 ```
+
+- Note : 17/20
